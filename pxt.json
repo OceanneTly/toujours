@@ -1,5 +1,5 @@
 {
-    "name": "toujours",
+    "name": "TD1 - Exo2",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -17,5 +17,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "blocksprj"
 }
